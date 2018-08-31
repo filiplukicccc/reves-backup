@@ -40,7 +40,7 @@ class Home extends Component {
 								<GridColumn width={16}>
 									<div style={{ position: 'fixed', width: '100%' }}>
 										<div className='videoDiv imgHome'>
-											<div className='shadowDiv'><h1 style={{ fontSize: '40px' }}>WELCOME TO <span style={{ fontSize: '60px', fontWeight: '400' }}>REVES GROUP</span></h1></div>
+											<div className='shadowDiv'><h1 style={{ fontSize: '40px' }}>WELCOME TO <span style={{ fontSize: '60px', fontWeight: '400' }}>REVES GROssUPppp</span></h1></div>
 											<video className='videoCover' autoPlay loop src={movie}>
 											</video>
 										</div>
