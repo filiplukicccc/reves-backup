@@ -45,12 +45,6 @@ class Managment extends Component {
 							<h4 className='employersH4'>Head of Software Development</h4>
 							<p>Before joining REVES Holding, Johannes was a research assistant at the Federal Reserve Bank in Boston. He also worked as a Data Scientist for eBay Inc. in San Jose, California. Johannes Castner holds a PhD in Sustainable Development and a BA in Economics from Columbia University. Johannes brings a strong background in software development and finance. He has built an extensive network across the globe and his business contacts in the Silicon Valley are of the utmost importance to REVES Holding.</p>
 						</GridColumn>
-						<GridColumn style={{ background: 'white' }} className='imgHol' computer={4} mobile={14}>
-							<Image style={{ width: '280px', margin: '0 auto' }} src={alex} circular />
-							<h3 className='employers'>Alex Musyoka, BSc.</h3>
-							<h4 className='employersH4'>Director of Corporate Development, Africa</h4>
-							<p>Born in Nairobi, Kenya, Alex Musyoka has acquired a deep understanding of the pharmaceutical industry. Before joining VIEBEG MEDICAL, Alex worked as a manager for more than 8 years for several companies engaging in pharmaceutical distribution in East Africa. He holds a Bachelor’s degree in Business Administration. Alex’ received valuable training abroad, such as in Dubai, where he worked closely with experts on finding high quality products that suit the East African market. Besides his precious product know-how and market knowledge, Alex is extremely skilled when it comes to analyse the market, business development and networking.</p>
-						</GridColumn>
 					</GridRow>
 				</Grid>
 			</div>
